@@ -1,4 +1,4 @@
-# Single-Image-Optical-Flow-Estimation-with-an-Event-Camera
+
 Single Image Optical Flow Estimation with an Event Camera CVPR 2020
 
 @article{pan2020single, 
